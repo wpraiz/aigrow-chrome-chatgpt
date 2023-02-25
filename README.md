@@ -6,10 +6,18 @@ Esta extensão foi inspirada, baseada e existe a partir de todo contexto represe
 
 [OpenAI]: https://openai.com/
 [GPT-3]: https://openai.com/blog/openai-api/
+[ChatGPT]: https://chat.openai.com/
 
-> Site do [OpenAI]
+> [ChatGPT] | Site do ChatGPT
 
-> Acesse clicando Aqui [GPT-3]
+> [OpenAI] | Site do OpenAI
+
+> [GPT-3] | Conheça a GPT-3
+
+* [Instalação](#instalação)
+    * [Como Instalar no Google Chrome](#como-instalar-no-google-chrome)
+    * [Como Instalar no Microsoft Edge](#como-instalar-no-microsoft-edge)
+    * [Como Instalar no Mozilla Firefox](#como-instalar-no-mozilla-firefox)
 
 ![about-aigrow-chrome-chatgpt](https://user-images.githubusercontent.com/97212806/221333347-2334953f-936d-406b-bcb3-7b906eed8362.png)
 

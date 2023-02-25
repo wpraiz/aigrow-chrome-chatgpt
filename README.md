@@ -1,6 +1,23 @@
 # aiGrow Chrome Extension for ChatGPT 
 
 
+```ascii
+
+         d8b  .d8888b.                                 
+         Y8P d88P  Y88b                                
+             888    888                                
+ 8888b.  888 888        888d888  .d88b.  888  888  888 
+    "88b 888 888  88888 888P"   d88""88b 888  888  888 
+.d888888 888 888    888 888     888  888 888  888  888 
+888  888 888 Y88b  d88P 888     Y88..88P Y88b 888 d88P 
+"Y888888 888  "Y8888P88 888      "Y88P"   "Y8888888P"  
+
+```                                            
+                                                       
+                                                       
+
+
+
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/) [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Extensão do Chrome que substitui a página Nova Guia por um bloco de notas. Também diz qual dia é. Ele usa sua localização para determinar se deve ter um fundo escuro ou claro, com base em horas de luz do dia.

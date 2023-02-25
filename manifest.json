@@ -1,0 +1,17 @@
+{
+  "name": "aiGrow ChatGPT Custom Version Brazil",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "description": "Utiliza o Lucid como código base para criar uma aba interativa com o ChatGPT",
+  "homepage_url": "https://github.com/wpraiz/aigrow-chatgpt-custom",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "chrome_url_overrides": {
+    "newtab": "src/override/override.html"
+  },
+  "permissions": ["storage"]
+}

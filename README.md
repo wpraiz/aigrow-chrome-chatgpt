@@ -3,7 +3,4 @@ Extensão do Chrome que substitui a página Nova Guia por um bloco de notas. Tam
 
 Esta extensão é baseada no projeto [Lucid]
 
-## imagem https://github.com/wpraiz/aigrow-chrome-chatgpt/blob/main/imgs/about-aigrow-chrome-chatgpt.png?raw=true
-
-## imagem
-
+![about-aigrow-chrome-chatgpt](https://user-images.githubusercontent.com/97212806/221333347-2334953f-936d-406b-bcb3-7b906eed8362.png)
